@@ -6,7 +6,7 @@ One to Multi email sender,
 
 ## Python
 
-**server**
+** server **
 
 if you using gmail replace the code in script.py with the following.
 ```
@@ -17,22 +17,22 @@ if you using gmail replace the code in script.py with the following.
 ```
 enter your email and app-specific password in SENDER_Email and PASSWORD.
 
-*how to get app-specific password*
+* how to get app-specific password *
  - Go to Google Account settings. 
  - Enable 2-Step verification. 
  - Security->App-passwords.
  - Generate a new app-password for mail.
  - Copy and paste that as your app-specific password.
 
-**recipient**
+** recipient **
 
 Replace the email and Name with the people who you wanna send the email too.
 
-**subject**
+** subject **
 
 Add the subject of the emails here.
 
-**RUN**
+** RUN **
  
 To run the file,
 ```
