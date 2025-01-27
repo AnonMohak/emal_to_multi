@@ -1,0 +1,10 @@
+//delete all this
+//add the content of the email here
+//remember to add [name] exactly like this and it will auto replaced by the reciptient name
+//
+//
+//example:
+
+Dear [name],
+	hello there!
+from XYZ
