@@ -1,10 +1,10 @@
 # emal_to_multi
 
-##Do 
+## Do 
 
 One to Multi email sender,
 
-##Python
+## Python
 
 **server**
 
@@ -18,11 +18,11 @@ if you using gmail replace the code in script.py with the following.
 enter your email and app-specific password in SENDER_Email and PASSWORD.
 
 *how to get app-specific password*
- -Go to Google Account settings. 
- -Enable 2-Step verification. 
- -Security->App-passwords.
- -Generate a new app-password for mail.
- -Copy and paste that as your app-specific password.
+ - Go to Google Account settings. 
+ - Enable 2-Step verification. 
+ - Security->App-passwords.
+ - Generate a new app-password for mail.
+ - Copy and paste that as your app-specific password.
 
 **recipient**
 
@@ -40,4 +40,4 @@ pip install secure-smtplib
 python script.py
 ```
 
-#GGs    
+# GGs    
